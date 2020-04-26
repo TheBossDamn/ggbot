@@ -40,6 +40,7 @@ client.on('message', message => {
 "Instgram",
 "Google",
 "Viber",
+ "لبتون ساحب الف",
 ];
         var x2 = ['DreamKing',
         "DeathGames",
@@ -78,6 +79,8 @@ client.on('message', message => {
 		"Instgram",
 		"Google",
 		"Viber",
+		  "لبتون ساحب الف",
+		
 		
         
         
